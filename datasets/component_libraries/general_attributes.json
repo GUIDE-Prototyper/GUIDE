@@ -1,0 +1,15 @@
+{
+    "generalAttributes": [
+      {"key": "name", "label": "Name", "type": "String"},
+      {"key": "xPos", "label": "X Pos", "type": "Number"},
+      {"key": "yPos", "label": "Y Pos", "type": "Number"},
+      {"key": "width", "label": "Width", "type": "Number"},
+      {"key": "height", "label": "Height", "type": "Number"},
+      {"key": "borderRadius", "label": "Border Radius", "type": "Number"},
+      {"key": "fontSize", "label": "Font Size", "type": "Number"},
+      {"key": "textAlign", "label": "Text Align", "type": "String", "options": ["left", "center", "right"]},
+      {"key": "textVerticalAlign", "label": "Text Vertical Align", "type": "String", "options": ["top", "middle", "bottom"]},
+      {"key": "opacity", "label": "Opacity", "type": "Number"}
+    ]
+  }
+  

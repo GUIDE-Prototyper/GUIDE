@@ -1,0 +1,67 @@
+.list-item {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  transition: background-color 0.3s ease; 
+}
+
+.list-item:nth-of-type(even) {
+  background-color: #f0f0f0;
+}
+
+.list-item .MuiListItemText-primary {
+  font-size: 0.95rem; 
+  font-weight: 500; 
+  color: #333a3f; 
+}
+
+.list-item .MuiListItemText-secondary {
+  font-size: 0.8rem;
+  font-weight: 200; 
+  line-height: 0.9rem;
+  color: #70757e; 
+}
+
+.icon-button {
+  color: #6b7280;
+  transition: color 0.2s ease; 
+}
+
+.icon-button:hover {
+  color: #333a3f; 
+}
+
+.dialog-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333a3f;
+}
+
+.dialog-content {
+  padding: 10px;
+}
+
+.dialog-text-field {
+  margin-bottom: 15px;
+}
+
+.dialog-button {
+  background-color: var(--color-bg-brand);
+  color: var(--color-text-brand);
+  margin: 5px;
+}
+
+.dialog-button:hover {
+  background-color: var(--color-bg-brand-hover);
+}
+
+.list-item:hover {
+  background-color: #e6f2f1;
+}
+
+.MuiList-root {
+  padding-top: 0px!important;
+}

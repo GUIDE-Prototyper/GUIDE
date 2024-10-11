@@ -1,0 +1,18 @@
+.divider-base {
+  background-color: var(--color-header)!important;
+  color: var(--color-header-text)!important;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 7px;
+}
+
+.divider-title {
+  font-size: 0.9rem!important;
+  text-align: left;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  padding-left: 15px;
+}

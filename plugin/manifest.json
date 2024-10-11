@@ -1,0 +1,13 @@
+{
+  "name": "GUIDE",
+  "id": "",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "enableProposedApi": false,
+  "permissions": ["currentuser", "teamlibrary"],
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "networkAccess": {
+    "allowedDomains": [""]
+  }
+}

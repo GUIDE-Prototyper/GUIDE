@@ -1,0 +1,72 @@
+{
+    "generalAttributes": [
+      {"key": "figmaId", "label": "Figma ID", "type": "String"},
+      {"key": "id", "label": "ID", "type": "String"},
+      {"key": "name", "label": "Name", "type": "String"},
+      {"key": "xPos", "label": "X Pos", "type": "Number"},
+      {"key": "yPos", "label": "Y Pos", "type": "Number"},
+      {"key": "matTitle", "label": "Material Title", "type": "String"},
+      {"key": "matDescr", "label": "Material Description", "type": "String"},
+      {"key": "key", "label": "Material Key", "type": "String"},
+      {"key": "width", "label": "Width", "type": "Number"},
+      {"key": "height", "label": "Height", "type": "Number"},
+      {"key": "visible", "label": "Visible", "type": "Boolean"},
+      {"key": "borderRadius", "label": "Border Radius", "type": "Number"},
+      {"key": "fontSize", "label": "Font Size", "type": "Number"},
+      {"key": "fontName", "label": "Font Name", "type": "String"},
+      {"key": "textAlign", "label": "Text Align", "type": "String", "options": ["left", "center", "right"]},
+      {"key": "textVerticalAlign", "label": "Text Vertical Align", "type": "String", "options": ["top", "middle", "bottom"]},
+      {"key": "rotation", "label": "Rotation", "type": "Number"},
+      {"key": "removed", "label": "Removed", "type": "Boolean"},
+      {"key": "opacity", "label": "Opacity", "type": "Number"},
+      {"key": "minWidth", "label": "Min Width", "type": "Number"},
+      {"key": "minHeight", "label": "Min Height", "type": "Number"},
+      {"key": "locked", "label": "Lockecd", "type": "Boolean"},
+      {"key": "expanded", "label": "Expanded", "type": "Boolean"},
+
+      {
+        "key": "stroke",
+        "label": "Strokes",
+        "type": {
+          "color": {
+            "type": ["SOLID"],
+            "color": "String",
+            "opacity": "String"
+          },
+          "align": ["INSIDE", "OUTSIDE", "CENTER"]
+        }
+      },
+      {
+        "key": "effects",
+        "label": "Effects",
+        "type":  {
+          "type": "String",
+          "radius": "Number",
+          "visible": "Boolean",
+          "offset":  {
+              "x": "Number",
+              "y": "Number"
+          },
+          "spread": "Number",
+          "blendMode": "String",
+          "showShadowBehindNode": "Boolean",
+          "color": {
+              "hex": "String",
+              "alpha": "Number"
+          }
+        }
+      },
+      {
+        "key": "color",
+        "label": "Color",
+        "type": {
+          "color": {
+            "type": ["SOLID"],
+            "color": "String",
+            "opacity": "String"
+          }
+        }
+      }
+    ]
+  }
+  
