@@ -1,5 +1,7 @@
 # GUIDE: LLM-Driven GUI Generation Decomposition for Automated Prototyping
 
+[![DOI](https://zenodo.org/badge/870925443.svg)](https://doi.org/10.5281/zenodo.13918827)
+
 The supplementary material of our submission to the ICSE 2025 conference demonstration track is structured as follows:
 
 - **datasets**: This directory contains the datasets employed in our approach including the created *Material Design* component library, the configuration mappings of *Material Design* GUI components to specific configurations, the complete *Material Design* component library specifcation, GUI descriptions for the evaluation and the respective evaluation results from the conducted user on Prolific
