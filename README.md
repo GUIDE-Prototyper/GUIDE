@@ -11,3 +11,8 @@ The supplementary material of our submission to the ICSE 2025 conference demonst
 - **scripts**:  Bash scripts for deploying the backend on a server using *gunicorn*
 
 <img src="https://github.com/GUIDE-Prototyper/GUIDE/blob/main/datasets/images/GUIDE_architecture_overview_updated.png?raw=true" width="100%">
+
+# License Notice 
+This repository contains multiple components with different licenses. Below is a breakdown of the applicable licenses for each part: 
+- **Top-Level Repository (Apache 2.0)**: Unless otherwise noted, all files in this repository are licensed under the **Apache License 2.0**.  See the [LICENSE](./LICENSE) file for more details. 
+- **Figma Plugin (MIT License)**: The Figma plugin located in the `plugin/` directory is licensed under the **MIT License**.  See [`plugin/LICENSE`](./plugin/LICENSE) for details. 
