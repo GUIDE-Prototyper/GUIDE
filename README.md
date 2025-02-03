@@ -1,6 +1,6 @@
 # GUIDE: LLM-Driven GUI Generation Decomposition for Automated Prototyping
 
-[![DOI](https://zenodo.org/badge/870925443.svg)](https://doi.org/10.5281/zenodo.13918827)
+[![DOI](https://zenodo.org/badge/870925443.svg)](https://doi.org/10.5281/zenodo.13918826)
 
 The supplementary material of our submission to the ICSE 2025 conference demonstration track is structured as follows:
 
